@@ -1,3 +1,6 @@
 # computer_vision
 
-## this is a test commit
+This repo contains computer vision related notebooks
+
+
+https://github.com/udacity/CVND_Exercises/tree/master
